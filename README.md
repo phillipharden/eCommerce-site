@@ -4,7 +4,7 @@ MongoDB - Express - React - Node
 
 <br/>
 
-
+### [Git Commands](https://www.youtube.com/watch?v=e2IbNHi4uCI)
 
 `git branch dev`
 
@@ -17,7 +17,7 @@ For the initial push always use
 
 <br/>
 
-My most used React snippets:
+### My most used React snippets:
 
 **rafce** = arrow function component 
 
